@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHuBTestAppMeraz</string>
+    <string name="contributors">Contributors</string>
+    <string name="project_url">Project Url</string>
+    <string name="description">Description</string>
+    <string name="project_title">Project Title</string>
+</resources>
